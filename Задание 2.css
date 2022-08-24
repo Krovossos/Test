@@ -1,0 +1,8 @@
+.text:after {
+    content: "Конец!";
+    color: rgb(0, 255, 55);
+}
+.text:before {
+    content: "Начало: ";
+    color: rgb(255, 0, 0);
+}
